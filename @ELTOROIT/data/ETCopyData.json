@@ -1,7 +1,7 @@
 {
-    "now": "2020-02-11T22:58:01.777Z",
-    "orgSource": "dhORG",
-    "orgDestination": "soORG",
+    "now": "2020-04-26T16:27:15.470Z",
+    "orgSource": "soET_OOE",
+    "orgDestination": "soET_OOE",
     "sObjectsData": [
         {
             "name": "Opportunity",
@@ -50,11 +50,19 @@
             "orderBy": null,
             "twoPassReferenceFields": "",
             "where": null
+        },
+        {
+            "name": "TriggerOLD__c",
+            "ignoreFields": "OwnerId",
+            "maxRecords": -1,
+            "orderBy": null,
+            "twoPassReferenceFields": "",
+            "where": null
         }
     ],
     "sObjectsMetadata": [],
     "rootFolder": "ETCopyData",
-    "includeAllCustom": false,
+    "includeAllCustom": true,
     "stopOnErrors": true,
     "ignoreFields": null,
     "twoPassReferenceFields": null,

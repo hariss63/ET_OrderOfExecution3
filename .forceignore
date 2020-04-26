@@ -12,4 +12,4 @@ package.xml
 **/__tests__/**
 
 # Ignore this... You should be working with Permission Sets
-**/profiles/**
+# **/profiles/**

@@ -7,13 +7,13 @@
 
 # --- Batch variables
 	# Alias for scratch org
-	ALIAS="soORG"
+	ALIAS="soET_OOE"
 
 	# How long will the scratch org live (max 30)
 	DAYS=1
 	
 	# Permission Set name
-	PERM_SET=
+	PERM_SET=OOE
 
 	# Deploy Admin standard profile
 	# Helps set the page layouts, for example
